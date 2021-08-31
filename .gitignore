@@ -5,3 +5,5 @@ __pycache__/
 env/
 .idea
 migrations/
+node_modules
+.vscode
