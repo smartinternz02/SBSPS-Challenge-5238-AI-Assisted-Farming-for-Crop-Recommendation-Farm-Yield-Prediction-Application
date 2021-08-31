@@ -1,5 +1,5 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://github.com/smartinternz02/SBSPS-Challenge-5238-AI-Assisted-Farming-for-Crop-Recommendation-Farm-Yield-Prediction-Application/blob/4c82ceb81b6248a6c37d85c13df1151de1a06ba1/Screenshots%20for%20report/Asset%204500.jpg)
 
     
 # IBM Hack Challenge - 2021
@@ -53,4 +53,7 @@ Run the App
   
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/smartinternz02/SBSPS-Challenge-5238-AI-Assisted-Farming-for-Crop-Recommendation-Farm-Yield-Prediction-Application/blob/4c82ceb81b6248a6c37d85c13df1151de1a06ba1/Screenshots%20for%20report/WhatsApp%20Image%202021-08-31%20at%208.36.39%20AM.jpeg)
+![App Screenshot](https://github.com/smartinternz02/SBSPS-Challenge-5238-AI-Assisted-Farming-for-Crop-Recommendation-Farm-Yield-Prediction-Application/blob/4c82ceb81b6248a6c37d85c13df1151de1a06ba1/Screenshots%20for%20report/WhatsApp%20Image%202021-08-31%20at%208.36.40%20AM.jpeg)
+![App Screenshot](https://github.com/smartinternz02/SBSPS-Challenge-5238-AI-Assisted-Farming-for-Crop-Recommendation-Farm-Yield-Prediction-Application/blob/4c82ceb81b6248a6c37d85c13df1151de1a06ba1/Screenshots%20for%20report/WhatsApp%20Image%202021-08-31%20at%208.36.41%20AM.jpeg)
+![App Screenshot](https://github.com/smartinternz02/SBSPS-Challenge-5238-AI-Assisted-Farming-for-Crop-Recommendation-Farm-Yield-Prediction-Application/blob/4c82ceb81b6248a6c37d85c13df1151de1a06ba1/Screenshots%20for%20report/WhatsApp%20Image%202021-08-31%20at%208.36.42%20AM.jpeg)
