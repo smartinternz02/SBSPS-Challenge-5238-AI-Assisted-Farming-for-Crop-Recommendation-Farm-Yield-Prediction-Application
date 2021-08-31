@@ -62,7 +62,7 @@ Run the Project
 - Crop Price Prediction
 - Crop Monitoring based on Satellite Image
 - User can make their own Personal Model
-- 3rd Party Services
+- User can use our 3rd Party REST API Services
 
   
 ## Screenshots
