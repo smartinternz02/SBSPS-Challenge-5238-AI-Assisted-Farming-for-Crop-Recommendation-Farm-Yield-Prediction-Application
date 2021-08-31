@@ -69,10 +69,10 @@ Run the Project
 
 ![App Screenshot](https://github.com/smartinternz02/SBSPS-Challenge-5238-AI-Assisted-Farming-for-Crop-Recommendation-Farm-Yield-Prediction-Application/blob/4c82ceb81b6248a6c37d85c13df1151de1a06ba1/Screenshots%20for%20report/WhatsApp%20Image%202021-08-31%20at%208.36.39%20AM.jpeg)
 |:--:| 
-| *Crop Recommendation* |</br></br>
+| *1. Crop Recommendation* |</br></br>
 ![App Screenshot](https://github.com/smartinternz02/SBSPS-Challenge-5238-AI-Assisted-Farming-for-Crop-Recommendation-Farm-Yield-Prediction-Application/blob/4c82ceb81b6248a6c37d85c13df1151de1a06ba1/Screenshots%20for%20report/WhatsApp%20Image%202021-08-31%20at%208.36.40%20AM.jpeg)
-| *Crop Recommendation extra information* |</br></br>
+| *2. Crop Recommendation extra information* |</br></br>
 ![App Screenshot](https://github.com/smartinternz02/SBSPS-Challenge-5238-AI-Assisted-Farming-for-Crop-Recommendation-Farm-Yield-Prediction-Application/blob/ded8132dbf87e09d8aa169a30d482095bc907043/Screenshots%20for%20report/WhatsApp%20Image%202021-08-31%20at%208.36.41%20AM%20(1).jpeg)
-| *Crop Yield Prediction* |</br></br>
+| *3. Crop Yield Prediction* |</br></br>
 ![App Screenshot](https://github.com/smartinternz02/SBSPS-Challenge-5238-AI-Assisted-Farming-for-Crop-Recommendation-Farm-Yield-Prediction-Application/blob/4c82ceb81b6248a6c37d85c13df1151de1a06ba1/Screenshots%20for%20report/WhatsApp%20Image%202021-08-31%20at%208.36.42%20AM.jpeg)
-| *Crop Price Prediction* |
+| *4. Crop Price Prediction* |
