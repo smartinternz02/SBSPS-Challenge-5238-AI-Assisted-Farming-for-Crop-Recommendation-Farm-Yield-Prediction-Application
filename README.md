@@ -20,7 +20,8 @@
 
 **Demonstration** - Video Link Comming Soon
   
-## Installation
+
+## Installation - Backend
 
 Create Python Virtual Env
 
@@ -41,6 +42,19 @@ Run the App
 ```bash
   python3 run.py
 ```   
+
+## Installation - Frontend
+
+Install the Required Dependencies
+
+```bash
+  npm i
+```
+
+Run the Project
+```bash
+  npm start
+```
 ## Features
 
 - Crop Recommendation
