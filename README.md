@@ -15,7 +15,8 @@
 ## Demo
 
 **Demonstration** - Video Link Comming Soon
-**Deployed Frontend** -[Deployed On Heroku](https://agrioracle.herokuapp.com/)
+**Deployed Frontend** - 
+[Deployed On Heroku](https://agrioracle.herokuapp.com/)
 
 ## Installation - Backend
 
