@@ -70,7 +70,7 @@ Run the Project
 
 ## Screenshots
 
-<p style="text-align:center">| *_1. Crop Recommendation_* |</p><br /><br />
+| _1. Crop Recommendation_ |<br /><br />
 ![App Screenshot](https://github.com/smartinternz02/SBSPS-Challenge-5238-AI-Assisted-Farming-for-Crop-Recommendation-Farm-Yield-Prediction-Application/blob/4c82ceb81b6248a6c37d85c13df1151de1a06ba1/Screenshots%20for%20report/WhatsApp%20Image%202021-08-31%20at%208.36.39%20AM.jpeg)
 | _2. Crop Recommendation extra information_ |<br /><br />
 ![App Screenshot](https://github.com/smartinternz02/SBSPS-Challenge-5238-AI-Assisted-Farming-for-Crop-Recommendation-Farm-Yield-Prediction-Application/blob/4c82ceb81b6248a6c37d85c13df1151de1a06ba1/Screenshots%20for%20report/WhatsApp%20Image%202021-08-31%20at%208.36.40%20AM.jpeg)
